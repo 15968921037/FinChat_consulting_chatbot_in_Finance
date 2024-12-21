@@ -253,7 +253,8 @@ if prompt:
 
 
       
-#What is the step-by-step solution for calculating compound interest over 5 years at 5%?
+
+#What is the global impact of the Fed's rate cut
 
 # 清空聊天记录按钮
 if st.button("Clear Chat", key=f"clear_{messages_key}"):
@@ -261,5 +262,5 @@ if st.button("Clear Chat", key=f"clear_{messages_key}"):
 
 
 
-with st.sidebar:
-    st.image("/Users/alin/Documents/course_info/P1&P2/Financial Academic Knowledge.jpg")
+# with st.sidebar:
+#     st.image("/Users/alin/Documents/course_info/P1&P2/Financial Academic Knowledge.jpg")
