@@ -317,6 +317,6 @@ if st.button("Clear Chat", key=f"clear_{messages_key}"):
 
 
 
-# with st.sidebar:
-#     st.image("/Users/alin/Documents/course_info/P1&P2/Financial Academic Knowledge.jpg")
 
+with st.sidebar:
+    st.image("images/Financial Academic Knowledge.jpg")
